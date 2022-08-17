@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android/project/EX_8/app/src/main/res/drawable/corner_templete.xml" value="0.2595" />
+        <entry key="..\:/android/project/EX_8/app/src/main/res/layout/activity_city.xml" value="0.2086956590966153" />
+        <entry key="..\:/android/project/EX_8/app/src/main/res/layout/activity_main.xml" value="0.11686956909410458" />
+        <entry key="..\:/android/project/EX_8/app/src/main/res/layout/list_content_simple.xml" value="0.2754782700075322" />
+        <entry key="..\:/android/project/EX_8/app/src/main/res/layout/list_simple_item.xml" value="0.2821557971014493" />
         <entry key="..\:/android_/projects/EX_8/app/src/main/res/layout/activity_main.xml" value="0.18697916666666667" />
       </map>
     </option>
